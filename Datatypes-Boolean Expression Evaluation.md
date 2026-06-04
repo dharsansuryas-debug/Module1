@@ -33,4 +33,3 @@ print(f"d: {d}")
 
 ## Result:
 Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
-
